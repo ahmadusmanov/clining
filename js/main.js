@@ -1,12 +1,12 @@
 const menuBtn = document.querySelector('.nav__list_btn');
 const modalWindow = document.querySelector('.modalwindow');
-function list() {
+
     menuBtn.addEventListener('click', () => {
         modalWindow.classList.toggle('active');
         
     });
     
-};
+
 ///////////////// открытие системы расчитывания /////////////////////////////
 
 
