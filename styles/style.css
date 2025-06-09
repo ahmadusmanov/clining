@@ -1,0 +1,25 @@
+@import url(./navbar.css);
+@import url(./main.css);
+@import url(./footer.css);
+@import url(./fonts.css);
+
+body {
+    background: rgb(238, 149, 5);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+
+:root {
+--rob: 'Roboto';
+--iner: 'Inter';
+--rel: 'Releway';
+--web: 'Istok';
+--sava: 'Savate';
+--primaryColor: rgb(43, 42, 40);
+}
